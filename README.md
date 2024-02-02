@@ -1,3 +1,6 @@
+PROJECT Contact Manager
+
+
 The following libraries/technologies are used to make this application possible:
 
 Server Side:
@@ -8,7 +11,7 @@ Server Side:
 * Mongoose || Used for communicating with the MongoDB database
 
 Client Side:
-* Axios ||
+* Axios || Provides an API for making HTTP requests
 * React || Front-end "framework"
 * React-router-dom || Used for application routing
 * React-transition-group || Used for animating components
