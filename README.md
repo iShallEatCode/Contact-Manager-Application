@@ -1,6 +1,8 @@
 PROJECT Contact Keeper:
 This is a fully functional MERN full-stack application where you can create/update/delete user contacts. Imagine this like a personal phonebook. 
 
+VsCode Run Command => npm run dev
+
 
 The following libraries/technologies are used to make this application possible:
 
