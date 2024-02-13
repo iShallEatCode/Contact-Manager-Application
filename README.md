@@ -1,5 +1,6 @@
-PROJECT Contact Keeper:
-This is a fully functional MERN full-stack application where you can create/update/delete user contacts. Imagine this like a personal phonebook. 
+PROJECT Contact Manager:
+
+A dynamic MERN stack application designed for seamless contact management. This full-featured platform allows users to effortlessly add, edit, and manage contacts, all stored securely in a MongoDB database. Leveraging the power of MongoDB, Express, React, and Node.js, it offers a robust and responsive user interface for efficient data handling and real-time updates, ensuring a smooth and intuitive experience.
 
 VsCode Run Command => npm run dev
 
